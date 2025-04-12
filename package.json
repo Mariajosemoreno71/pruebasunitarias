@@ -1,0 +1,20 @@
+{
+  "name": "pruebasunitarias",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mariajosemoreno71/pruebasunitarias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mariajosemoreno71/pruebasunitarias/issues"
+  },
+  "homepage": "https://github.com/Mariajosemoreno71/pruebasunitarias#readme",
+  "description": ""
+}
